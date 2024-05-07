@@ -1,0 +1,37 @@
+
+.container{
+    height:50vh;
+    width:100vw;
+    background-color: black;
+    display:grid;
+    grid-template-columns: 100px 200px;
+    grid-template-rows: 200px 300px;
+    grid-gap: 30px;
+    justify-content: center;
+    /* display:flex;
+    justify-content:center;
+    flex-direction: row;
+    align-items:center; */
+    /* flex-wrap: wrap;
+    align-content: center; */
+}
+.div1{
+    background-color: aliceblue;
+    
+    /* flex-shrink: 0; */
+
+}
+.div2{
+    background-color: aquamarine;
+    
+    /* grid-column: span 2; */
+    /* flex-grow: 1;
+    flex-basis: 0;
+    align-self: baseline; */
+}
+.div3{
+    background-color: rgb(156, 156, 210);
+    
+    /* flex-grow: 2;
+    flex-basis: 0; */
+}

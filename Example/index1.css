@@ -1,0 +1,43 @@
+header{
+    background-color: green;
+    text-align: center;
+    padding:10px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+section{
+    margin:10px;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+    color:white;
+    text-align: center;
+}
+.preview li{
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#welcome{
+    font-size: 30 px;
+    color:white;
+}
+#home,#about,#service{
+    color: rgb(62, 144, 62);
+    font-size: 25px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(226,225,225);
+    padding-top: 3px;
+    padding-bottom:2px;
+    margin-bottom: 60px;
+}
+#contact{
+    font-size: 25px;
+    
+}

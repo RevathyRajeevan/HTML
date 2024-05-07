@@ -1,0 +1,118 @@
+.first{
+    background-color:black ;
+    color: white;
+    height:100%;
+    width: 28vw;
+    
+}
+body{
+    font-family: Calibri,'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+.table{
+    column-gap: -50px;
+}
+img{
+    margin-left: 40px;
+    margin-top: -60px;
+    
+}
+.first hr{
+    border-color:orange;
+    border-width: 1.5px;
+}
+.education,.references{
+    margin-left: 30px; 
+}
+
+.edutable{
+    padding-left: 15px;
+    border-collapse: separate;
+    border-spacing: 0 5px;
+    
+}
+.edutable td{
+padding-right: 50px;
+}
+.references p{
+    padding-left: 15px;
+    
+}
+.address{
+    margin-bottom: -60px;
+    border-bottom: -20px;
+}
+
+
+.parentaddress{
+    height: 30px;
+    width: 100%;
+    background-color: rgb(46, 45, 45);
+    
+}
+.childaddress{
+    height:30px;
+    width: 45px;
+    margin-left:-2px;
+    background-color: rgb(253, 129, 4); 
+    display: inline-block;
+}
+
+.address p{
+    margin-left: 65px;
+    
+}
+.value{
+    height:30px;
+    width:100%;
+    margin:-3px;
+}
+
+
+.second{
+    height:100%;
+   margin-left: 150px;
+   margin-right: 0%;
+}
+.name{
+margin-top: 40px;
+padding-top: 20px;
+background-color: rgb(252, 139, 19);
+margin-left:-3px;
+padding-bottom: 20px;
+padding-left: 20px;
+}
+.second hr{
+    border-width: 2px;
+    border-color: black;
+
+}
+.parentskill{
+    height: 7px;
+    background-color:rgb(88, 87, 87) ;
+}
+.childskill{
+    height: 100%;
+    width:190px;
+    background-color: black;
+}
+.experience #year{
+    width:150px;
+    text-align: start; 
+}
+.skilltable{
+    margin-left:100px ;
+    border-collapse: separate;
+    border-spacing: 50px 10px;
+}
+.right{
+    width: 250px;
+}
+.left{
+    width:250px;
+}
+
+.about,.work,.skills{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+

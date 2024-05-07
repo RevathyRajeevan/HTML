@@ -1,0 +1,48 @@
+body{
+    height: 150vh;
+}
+.container{
+    height:120vh;
+   
+    position:relative;
+}
+.div-style-div-red{
+    height:60px;
+    width:90%;
+    background-color: red;
+   position:fixed;
+   z-index:10;
+}
+.div-style-div-blue{
+    height:90%;
+    width:60px;
+    background-color: blue;
+    position:fixed;
+    z-index:8;
+    
+}
+.div-style-div-green{
+    height:60px;
+    width:90%;
+    background-color: green;
+    position:relative;
+    top:400px;
+    
+    
+}
+.div-style-div-yellow{
+    height:60px;
+    width:90%;
+    background-color: yellow;
+    position:relative;
+    top:400px;
+    
+}
+footer{
+    height:60px;
+    width:90%;
+    background-color: orange;
+    position:fixed;
+    bottom:0px;
+    z-index:10;
+}
